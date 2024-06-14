@@ -1,0 +1,9 @@
+python
+python-docx
+os
+textwrap
+dotenv
+langchain
+langchain-core
+langchain-google-genai
+plantuml
