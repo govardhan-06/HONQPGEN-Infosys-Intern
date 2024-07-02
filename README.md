@@ -1,5 +1,19 @@
-# HONQPGEN
-Infosys Springboard Internship Project
+# HoNQP-Gen AI Tool
+(Infosys Springboard Internship Project)
+
+## Project Aim
+
+The primary goal of the HoNQP-Gen AI Tool is to develop an advanced system capable of generating high-quality, hands-on Java programming question papers. The system is trained on a carefully curated dataset of Java code problems and solutions to ensure the production of relevant and educational questions.
+
+## Goal
+
+This project aims to streamline the creation of educational content by providing educators with a powerful tool to enhance learning experiences in computer science. By leveraging advanced models such as LLaMA and Mistral-8x7b, the system can produce contextually appropriate and high-quality questions. LLaMA is responsible for generating complex questions, while Mistral ensures data integration and quality assurance from the curated dataset.
+
+## Key Features
+
+- **Code Generation:** Automatically generate Java code questions and solutions.
+- **Class Diagram Creation:** Create relevant class diagrams to complement the generated questions.
+- **Document Generation:** Generate comprehensive documents including questions, solutions, and diagrams.
 
 ## Installation
 
