@@ -7,8 +7,7 @@ The primary goal of the HoNQP-Gen AI Tool is to develop an advanced system capab
 
 ## Goal
 
-This project aims to streamline the creation of educational content by providing educators with a powerful tool to enhance learning experiences in computer science. By leveraging advanced models such as LLaMA and Mistral-8x7b, the system can produce contextually appropriate and high-quality questions. LLaMA is responsible for generating complex questions, while Mistral ensures data integration and quality assurance from the curated dataset.
-
+This project aims to streamline the creation of educational content by providing educators with a powerful tool to enhance learning experiences in computer science. By leveraging advanced models such as the Mistral-8x7b, the system can produce contextually appropriate and high-quality questions.
 ## Key Features
 
 - **Code Generation:** Automatically generate Java code questions and solutions.
