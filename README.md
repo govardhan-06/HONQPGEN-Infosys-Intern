@@ -70,8 +70,8 @@ Explain any additional configuration or setup required for the project, if appli
   /
   ├── .gitignore
   ├── .env
-  ├── final.ipynb
-  ├── exp.ipynb
+  ├── model.ipynb
+  ├── gemini.ipynb
   └── requirements.txt
   ```
 
